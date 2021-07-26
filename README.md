@@ -12,7 +12,7 @@ En Diciembre del año 2020 me recibí de Técnico Universitario en Programación
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=typescript&sort=)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=typescript&sort=)
 </br>
-[![RUBY](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]()
+[![RUBY](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=ruby&sort=)
 [![Net Core](https://img.shields.io/badge/Core-5C2D91?style=for-the-badge&logo=.Net&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=c%23&sort=)
 </br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
