@@ -7,8 +7,8 @@ En Diciembre del año 2020 me recibí de Técnico Universitario en Programación
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=c%23&sort=)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=c%23&sort=)
 </br>
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=html&sort=)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=html&sort=)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=typescript&sort=)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=typescript&sort=)
 </br>
