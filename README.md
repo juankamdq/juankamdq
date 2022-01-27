@@ -1,7 +1,7 @@
 # Hola, mi nombre es Juan Carlos Bugallo
 ### Programador Jr
 
-Soy Técnico Universitario en Programación, me recibi en la Universidad Tecnológica Nacional de Avellaneda. He estado involucrado con el Desarrollo Web desde el comienzo de mi carrera, mi enfoque aputa al desarrollo Backend
+Soy Técnico Universitario en Programación, me recibi en la Universidad Tecnológica Nacional de Avellaneda. He estado involucrado con el Desarrollo Web desde el comienzo de mi carrera, mi enfoque apunta al desarrollo Backend
 
 ## Skills:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/juankamdq?tab=repositories&q=&type=&language=c%23&sort=)
