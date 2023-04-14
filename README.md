@@ -21,5 +21,4 @@ Soy Técnico Universitario en Programación, me recibi en la Universidad Tecnol�
 </br>
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubugal/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlosjaviermdq@gmail.com)
